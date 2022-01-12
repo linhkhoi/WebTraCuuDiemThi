@@ -1,0 +1,50 @@
+.err-input {
+  color: red;
+  font-size: 12px;
+}
+.ant-form-item {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+  .ant-form-item-label {
+    text-align: left;
+  }
+}
+
+.ant-btn-dashed {
+  color: #306ee5;
+  border-style: dashed;
+  border-color: #306ee5;
+  svg {
+    margin-top: -6px;
+  }
+}
+
+.ant-breadcrumb-link {
+  svg {
+    margin-top: -6px;
+  }
+}
+.ant-input {
+  padding: 6px 11px !important;
+}
+.ant-input-number-input {
+  height: 34px !important;
+}
+.ant-input-number {
+  width: 100% !important;
+}
+.ant-breadcrumb > span:last-child a {
+  color: #306ee5 !important;
+}
+.ant-input-affix-wrapper {
+  padding: 0 11px 0 0;
+}
+.ant-btn {
+  height: 36px;
+}
+// ------------------ pages ------------
+@import "./pages/login";
+
+// ------------------ components ------------
+@import "./components/navbar";
