@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wxTA939L9zrEeYM6l7NECxjfbv2HZ4FrgFu8B50jsytniA7tSPFstRdKKDPRJlCqf6jsfjUTByroaag4SU0iUg==",
+  "dgSpecHash": "PNohUYwx2y444lNBzMeAg8cqVAJQL9xqEst/YfywOPCD9nc4i3qAboBnpkclPbKmKH1aLeBR3R+zdA5YSPLo1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MSIGE66\\source\\repos\\APIDiemThi\\APIDiemThi\\APIDiemThi.csproj",
+  "projectFilePath": "D:\\Compressed\\WebTraCuuDiemThi\\APIDiemThi\\APIDiemThi\\APIDiemThi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSIGE66\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\MSIGE66\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

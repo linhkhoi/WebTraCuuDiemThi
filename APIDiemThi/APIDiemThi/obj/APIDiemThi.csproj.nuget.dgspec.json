@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MSIGE66\\source\\repos\\APIDiemThi\\APIDiemThi\\APIDiemThi.csproj": {}
+    "D:\\Compressed\\WebTraCuuDiemThi\\APIDiemThi\\APIDiemThi\\APIDiemThi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MSIGE66\\source\\repos\\APIDiemThi\\APIDiemThi\\APIDiemThi.csproj": {
+    "D:\\Compressed\\WebTraCuuDiemThi\\APIDiemThi\\APIDiemThi\\APIDiemThi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MSIGE66\\source\\repos\\APIDiemThi\\APIDiemThi\\APIDiemThi.csproj",
+        "projectUniqueName": "D:\\Compressed\\WebTraCuuDiemThi\\APIDiemThi\\APIDiemThi\\APIDiemThi.csproj",
         "projectName": "APIDiemThi",
-        "projectPath": "C:\\Users\\MSIGE66\\source\\repos\\APIDiemThi\\APIDiemThi\\APIDiemThi.csproj",
+        "projectPath": "D:\\Compressed\\WebTraCuuDiemThi\\APIDiemThi\\APIDiemThi\\APIDiemThi.csproj",
         "packagesPath": "C:\\Users\\MSIGE66\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MSIGE66\\source\\repos\\APIDiemThi\\APIDiemThi\\obj\\",
+        "outputPath": "D:\\Compressed\\WebTraCuuDiemThi\\APIDiemThi\\APIDiemThi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MSIGE66\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -115,9 +115,10 @@ export default function Teacher(props) {
       props.handleSetSelectedItem(selectedRows);
     },
     getCheckboxProps: (record) => ({
-      disabled: false,
       // Column configuration not to be checked
       name: record.teacherId,
+      disabled:
+        props?.selectedItem.findIndex((e) => e == record.teacherId) > -1,
       defaultChecked: record.teacherId === 3,
     }),
   };
