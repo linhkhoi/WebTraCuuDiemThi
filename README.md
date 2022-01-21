@@ -7,8 +7,8 @@
 - Giảng viên: **Lê Ngọc Hiếu**
 ## Thông tin sinh viên thực hiện
 
-|STT|MSSV    |Họ tên      			   |Phân công    			   |
-|---|--------|-------------------------|
+|STT|MSSV    | Họ tên | Phân công |
+|---|------| ----| --|
 |1  |1851050065 |**Huỳnh Linh Khôi** |Lập trình phần Backend, thiết kế CSDL, làm video demo Backend |
 |2  |1451010141 |**Trần Anh Phương** |Lập trình phần Frontend, viết file hướng dẫn, làm video demo Frontend |
 |3  |1851050175 |**Lê Quốc Tú** |Viết file mô tả nghiệp vụ, file mô tả kỹ thuật |
