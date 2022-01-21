@@ -1,6 +1,6 @@
 ![logoUIT](http://ou.edu.vn/wp-content/uploads/2018/08/LOGO-TRUONGV21-12-2018-01-300x300.png)
 
-# BÀI TẬP LỚN MÔN LẬP TRÌNH CƠ SƠ DỮ LIỆU
+# ĐỒ ÁN MÔN LẬP TRÌNH CƠ SƠ DỮ LIỆU
 ## Thông tin môn học
 - Lớp: **DH18IT82**
 - Học kỳ: **3 (2020-2021)**
@@ -15,15 +15,15 @@
 |4  |1851050009 |**Trần Kim Bình** |
 |5  |1751012027 |**Huỳnh Ngọc Hồng** |
 
-## Thông tin bài tập lớn
+## Thông tin đồ án
 
 >Đề tài: **Xây dựng Website tra cứu điểm thi**
 
-## Yêu cầu đồ án
+## Các công nghệ sử dụng trong đồ án
 
-- Xây dựng đồ án bằng **C#, **
-- Có thể sử dụng các framework C# có sẵn: **ASP.NET API, LinQ, Entity**
-- Có thể sử dụng các framework Javascript có sẵn: **ReactJS**
+- Database: **SQL Server 2019**
+- Back-End: **ASP.NET API, LinQ, Entity**
+- Front-End: **ReactJS**
 
 
 ## Các chức năng chính trong đồ án
